@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Impuestos\\Documents\\personal\\UTN\\Ejercicios C#\\Ejercicios UTN\\universal\\Biblioteca\\Biblioteca.csproj",
+      "projectUniqueName": "C:\\Users\\Impuestos\\Documents\\personal\\UTN\\Ejercicios C#\\Ejercicios UTN\\Universal\\Biblioteca\\Biblioteca.csproj",
       "projectName": "Biblioteca",
-      "projectPath": "C:\\Users\\Impuestos\\Documents\\personal\\UTN\\Ejercicios C#\\Ejercicios UTN\\universal\\Biblioteca\\Biblioteca.csproj",
+      "projectPath": "C:\\Users\\Impuestos\\Documents\\personal\\UTN\\Ejercicios C#\\Ejercicios UTN\\Universal\\Biblioteca\\Biblioteca.csproj",
       "packagesPath": "C:\\Users\\Impuestos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Impuestos\\Documents\\personal\\UTN\\Ejercicios C#\\Ejercicios UTN\\universal\\Biblioteca\\obj\\",
+      "outputPath": "C:\\Users\\Impuestos\\Documents\\personal\\UTN\\Ejercicios C#\\Ejercicios UTN\\Universal\\Biblioteca\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Impuestos\\AppData\\Roaming\\NuGet\\NuGet.Config",
